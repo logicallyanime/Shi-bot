@@ -1,0 +1,2778 @@
+[
+    {
+        "title": "Genki Lesson 1 Grammar",
+        "swapQA": false,
+        "swapable": false,
+        "hirakata": true,
+        "cards": [
+            { 
+                "question": "XはYです。", 
+                "answer": "X is Y.; As for X, it is Y." 
+            }, 
+            { 
+                "question": "Mr. Yamashita is a teacher. | As for Mr. Yamashita, he is a teacher.", 
+                "answer": "やましたさんは、せんせいです" 
+            }, 
+            { 
+                "question": "(Are you) an international student?", 
+                "answer": "りゅうがくせいですか" 
+            }, 
+            { 
+                "question": "What is your major?", 
+                "answer": "せんこうはなにですか" 
+            }, 
+            { 
+                "question": "What year are you in college?", 
+                "answer": "なんねんせいですか" 
+            }, 
+            { 
+                "question": "a student of the Japanese language", 
+                "answer": "にほんごのがくせい" 
+            }, 
+            { 
+                "question": "a college professor", 
+                "answer": "だいがくのせんせい" 
+            }, 
+            { 
+                "question": "Is that so? | I see.", 
+                "answer": "そうですか" 
+            }
+        ]
+    },
+    {
+        "title": "Genki Greetings",
+        "swapQA": true,
+        "swapable": false,
+        "hirakata": true,
+        "cards": [
+            {
+                "question": "はじめまして。",
+                "answer": "Nice to meet you."
+            },
+            {
+                "question": "よろしくおねがいします。",
+                "answer": "Please extend special favor for me."
+            },
+            {
+                "question": "おはよう。",
+                "answer": "Good morning (Casual)."
+            },
+            {
+                "question": "おはようございます。",
+                "answer": "Good morning (Polite)."
+            },
+            {
+                "question": "こんにちは。",
+                "answer": "Hello. / Good afternoon."
+            },
+            {
+                "question": "こんばんは。",
+                "answer": "Good evening."
+            },
+            {
+                "question": "ごめんなさい。",
+                "answer": "I am sorry."
+            },
+            {
+                "question": "すみません。",
+                "answer": "Excuse me / I am sorry."
+            },
+            {
+                "question": "さようなら。",
+                "answer": "Good bye."
+            },
+            {
+                "question": "じゃ、また。",
+                "answer": "See you later."
+            },
+            {
+                "question": "おやすみなさい。",
+                "answer": "Good night."
+            },
+            {
+                "question": "しつれいします。",
+                "answer": "Excuse me (for leaving earlier than you do.)"
+            },
+            {
+                "question": "ありがとう。",
+                "answer": "Thank you."
+            },
+            {
+                "question": "ありがとうございます。",
+                "answer": "Thank you very much."
+            },
+            {
+                "question": "どういたしまして。",
+                "answer": "You are welcome."
+            },
+            {
+                "question": "いってらっしゃい。",
+                "answer": "Have a nice day."
+            },
+            {
+                "question": "いってきます。",
+                "answer": "I am leaving."
+            },
+            {
+                "question": "ただいま。",
+                "answer": "I am home."
+            },
+            {
+                "question": "おかえりなさい。",
+                "answer": "Welcome back."
+            },
+            {
+                "question": "いただきます。",
+                "answer": "I will start eating."
+            },
+            {
+                "question": "ごちそうさまでした。",
+                "answer": "I have finished eating."
+            }
+        ]
+    },
+    {
+        "title": "Genki Lesson 1 Vocabulary",
+        "swapQA": true,
+        "swapable": false,
+        "hirakata": true,
+        "cards": [
+            {
+                "question": "あの",
+                "answer": "um..."
+            },
+            {
+                "question": "いま",
+                "answer": "now"
+            },
+            {
+                "question": "えいご",
+                "answer": "English"
+            },
+            {
+                "question": "ええ",
+                "answer": "yes (informal)"
+            },
+            {
+                "question": "がくせい",
+                "answer": "student"
+            },
+            {
+                "question": "〜ご",
+                "answer": "〜language"
+            },
+            {
+                "question": "こうこう",
+                "answer": "high school"
+            },
+            {
+                "question": "ごご",
+                "answer": "PM"
+            },
+            {
+                "question": "ごぜん",
+                "answer": "AM"
+            },
+            {
+                "question": "〜さい",
+                "answer": "〜years old"
+            },
+            {
+                "question": "〜さん",
+                "answer": "Mr./Mrs.〜"
+            },
+            {
+                "question": "〜じ",
+                "answer": "〜o'clock"
+            },
+            {
+                "question": "〜じん",
+                "answer": "nationality; 〜person"
+            },
+            {
+                "question": "せんこう",
+                "answer": "major"
+            },
+            {
+                "question": "せんせい",
+                "answer": "teacher"
+            },
+            {
+                "question": "そうです",
+                "answer": "That's right"
+            },
+            {
+                "question": "そうですか",
+                "answer": "I see"
+            },
+            {
+                "question": "だいがく",
+                "answer": "university"
+            },
+            {
+                "question": "でんわ",
+                "answer": "telephone"
+            },
+            {
+                "question": "ともだち",
+                "answer": "friend"
+            },
+            {
+                "question": "なまえ",
+                "answer": "name"
+            },
+            {
+                "question": "なに",
+                "answer": "what"
+            },
+            {
+                "question": "にほん",
+                "answer": "Japan"
+            },
+            {
+                "question": "〜ねんせい",
+                "answer": "〜th year student"
+            },
+            {
+                "question": "はい",
+                "answer": "yes"
+            },
+            {
+                "question": "はん",
+                "answer": "half (an hour; :30)"
+            },
+            {
+                "question": "ばんごう",
+                "answer": "number"
+            },
+            {
+                "question": "りゅうがくせい",
+                "answer": "international student; exchange student"
+            },
+            {
+                "question": "わたし",
+                "answer": "I"
+            },
+            {
+                "question": "アメリカ",
+                "answer": "America"
+            },
+            {
+                "question": "イギリス",
+                "answer": "England"
+            },
+            {
+                "question": "オーストラリア",
+                "answer": "Australia"
+            },
+            {
+                "question": "かんこく",
+                "answer": "Korea"
+            },
+            {
+                "question": "スウェーデン",
+                "answer": "Sweden"
+            },
+            {
+                "question": "ちゅうごく",
+                "answer": "China"
+            },
+            {
+                "question": "かがく",
+                "answer": "science"
+            },
+            {
+                "question": "けいざい",
+                "answer": "economics"
+            },
+            {
+                "question": "こくさいかんけい",
+                "answer": "international relations"
+            },
+            {
+                "question": "コンピューター",
+                "answer": "computer"
+            },
+            {
+                "question": "じんるいがく",
+                "answer": "anthropology"
+            },
+            {
+                "question": "せいじ",
+                "answer": "politics"
+            },
+            {
+                "question": "ビジネス",
+                "answer": "business"
+            },
+            {
+                "question": "ぶんがく",
+                "answer": "literature"
+            },
+            {
+                "question": "れきし",
+                "answer": "history"
+            },
+            {
+                "question": "しごと",
+                "answer": "job"
+            },
+            {
+                "question": "いしゃ",
+                "answer": "doctor"
+            },
+            {
+                "question": "かいしゃいん",
+                "answer": "company worker"
+            },
+            {
+                "question": "こうこうせい",
+                "answer": "high school student"
+            },
+            {
+                "question": "しゅふ",
+                "answer": "housewife"
+            },
+            {
+                "question": "だいがくいんせい",
+                "answer": "graduate student"
+            },
+            {
+                "question": "だいがくせい",
+                "answer": "university student"
+            },
+            {
+                "question": "べんごし",
+                "answer": "lawyer"
+            },
+            {
+                "question": "おかあさん",
+                "answer": "mother"
+            },
+            {
+                "question": "おとうさん",
+                "answer": "father"
+            },
+            {
+                "question": "おねえさん",
+                "answer": "older sister"
+            },
+            {
+                "question": "おにいさん",
+                "answer": "older brother"
+            },
+            {
+                "question": "いもうと",
+                "answer": "younger sister"
+            },
+            {
+                "question": "おとうと",
+                "answer": "younger brother"
+            },
+            {
+                "question": "なんさいですか。",
+                "answer": "How old are you?"
+            },
+            {
+                "question": "でんわぱんごうはなんですか。",
+                "answer": "What is your telephone number?"
+            }
+        ]
+    },
+    {
+        "title": "Hiragana",
+        "swapQA": false,
+        "swapable": false,
+        "hirakata": false,
+        "cards": [
+            {
+                "question": "あ",
+                "answer": "a"
+            },
+            {
+                "question": "い",
+                "answer": "i"
+            },
+            {
+                "question": "う",
+                "answer": "u"
+            },
+            {
+                "question": "え",
+                "answer": "e"
+            },
+            {
+                "question": "お",
+                "answer": "o"
+            },
+            {
+                "question": "か",
+                "answer": "ka"
+            },
+            {
+                "question": "き",
+                "answer": "ki"
+            },
+            {
+                "question": "く",
+                "answer": "ku"
+            },
+            {
+                "question": "け",
+                "answer": "ke"
+            },
+            {
+                "question": "こ",
+                "answer": "ko"
+            },
+            {
+                "question": "さ",
+                "answer": "sa"
+            },
+            {
+                "question": "し",
+                "answer": "shi"
+            },
+            {
+                "question": "す",
+                "answer": "su"
+            },
+            {
+                "question": "せ",
+                "answer": "se"
+            },
+            {
+                "question": "そ",
+                "answer": "so"
+            },
+            {
+                "question": "た",
+                "answer": "ta"
+            },
+            {
+                "question": "ち",
+                "answer": "chi"
+            },
+            {
+                "question": "つ",
+                "answer": "tsu"
+            },
+            {
+                "question": "て",
+                "answer": "te"
+            },
+            {
+                "question": "と",
+                "answer": "to"
+            },
+            {
+                "question": "な",
+                "answer": "na"
+            },
+            {
+                "question": "に",
+                "answer": "ni"
+            },
+            {
+                "question": "ぬ",
+                "answer": "nu"
+            },
+            {
+                "question": "ね",
+                "answer": "ne"
+            },
+            {
+                "question": "の",
+                "answer": "no"
+            },
+            {
+                "question": "は",
+                "answer": "ha"
+            },
+            {
+                "question": "ひ",
+                "answer": "hi"
+            },
+            {
+                "question": "ふ",
+                "answer": "fu"
+            },
+            {
+                "question": "へ",
+                "answer": "he"
+            },
+            {
+                "question": "ほ",
+                "answer": "ho"
+            },
+            {
+                "question": "ま",
+                "answer": "ma"
+            },
+            {
+                "question": "み",
+                "answer": "mi"
+            },
+            {
+                "question": "む",
+                "answer": "mu"
+            },
+            {
+                "question": "め",
+                "answer": "me"
+            },
+            {
+                "question": "も",
+                "answer": "mo"
+            },
+            {
+                "question": "や",
+                "answer": "ya"
+            },
+            {
+                "question": "ゆ",
+                "answer": "yu"
+            },
+            {
+                "question": "よ",
+                "answer": "yo"
+            },
+            {
+                "question": "ら",
+                "answer": "ra"
+            },
+            {
+                "question": "り",
+                "answer": "ri"
+            },
+            {
+                "question": "る",
+                "answer": "ru"
+            },
+            {
+                "question": "れ",
+                "answer": "re"
+            },
+            {
+                "question": "ろ",
+                "answer": "ro"
+            },
+            {
+                "question": "わ",
+                "answer": "wa"
+            },
+            {
+                "question": "を",
+                "answer": "wo"
+            },
+            {
+                "question": "ん",
+                "answer": "n"
+            }
+        ]
+    },
+    {
+        "title": "Genki: Chapter 1: Numbers",
+        "swapQA": false,
+        "swapable": false,
+        "hirakata": true,
+        "cards": [
+            {
+                "question": "ゼロ・れい",
+                "answer": "0"
+            },
+            {
+                "question": "いち （一）",
+                "answer": "1"
+            },
+            {
+                "question": "に （二）",
+                "answer": "2"
+            },
+            {
+                "question": "さん （三）",
+                "answer": "3"
+            },
+            {
+                "question": "し・よん （四）",
+                "answer": "4"
+            },
+            {
+                "question": "ご （五）",
+                "answer": "5"
+            },
+            {
+                "question": "ろく （六）",
+                "answer": "6"
+            },
+            {
+                "question": "なな （七）",
+                "answer": "7"
+            },
+            {
+                "question": "はち （八）",
+                "answer": "8"
+            },
+            {
+                "question": "きゅう （九）",
+                "answer": "9"
+            },
+            {
+                "question": "じゅう （十）",
+                "answer": "10"
+            },
+            {
+                "question": "じゅういち （十一）",
+                "answer": "11"
+            },
+            {
+                "question": "じゅうに （十二）",
+                "answer": "12"
+            },
+            {
+                "question": "じゅうさん （十三）",
+                "answer": "13"
+            },
+            {
+                "question": "じゅうよん・じゅうし （十四）",
+                "answer": "14"
+            },
+            {
+                "question": "じゅうご （十五）",
+                "answer": "15"
+            },
+            {
+                "question": "じゅうろく （十六）",
+                "answer": "16"
+            },
+            {
+                "question": "じゅうなな （十七）",
+                "answer": "17"
+            },
+            {
+                "question": "じゅうはち （十八）",
+                "answer": "18"
+            },
+            {
+                "question": "じゅうきゅう （十九）",
+                "answer": "19"
+            },
+            {
+                "question": "にじゅう （二十）",
+                "answer": "20"
+            },
+            {
+                "question": "さんじゅう （三十）",
+                "answer": "30"
+            },
+            {
+                "question": "よんじゅう （四十）",
+                "answer": "40"
+            },
+            {
+                "question": "ごじゅう （五十）",
+                "answer": "50"
+            },
+            {
+                "question": "ろくじゅう （六十）",
+                "answer": "60"
+            },
+            {
+                "question": "ななじゅう （七十）",
+                "answer": "70"
+            },
+            {
+                "question": "はちじゅう （八十）",
+                "answer": "80"
+            },
+            {
+                "question": "きゅうじゅう （九十）",
+                "answer": "90"
+            },
+            {
+                "question": "ひゃく （百）",
+                "answer": "100"
+            }
+        ]
+    },
+    {
+        "title": "Hiragana",
+        "swapQA": false,
+        "swapable": false,
+        "hirakata": false,
+        "cards": [
+            {
+                "question": "ぴゃ",
+                "answer": "Pya"
+            },
+            {
+                "question": "ぴょ",
+                "answer": "Pyo"
+            },
+            {
+                "question": "ぴゅ",
+                "answer": "Pyu"
+            },
+            {
+                "question": "びゃ",
+                "answer": "Bya"
+            },
+            {
+                "question": "びょ",
+                "answer": "Byo"
+            },
+            {
+                "question": "びゅ",
+                "answer": "Byu"
+            },
+            {
+                "question": "じゃ",
+                "answer": "Jya"
+            },
+            {
+                "question": "じょ",
+                "answer": "Jyo"
+            },
+            {
+                "question": "じゅ",
+                "answer": "Jyu"
+            },
+            {
+                "question": "ぎゃ",
+                "answer": "Gya"
+            },
+            {
+                "question": "ぎょ",
+                "answer": "Gyo"
+            },
+            {
+                "question": "ぎゅ",
+                "answer": "Gyu"
+            },
+            {
+                "question": "りゃ",
+                "answer": "Rya"
+            },
+            {
+                "question": "りょ",
+                "answer": "Ryo"
+            },
+            {
+                "question": "りゅ",
+                "answer": "Ryu"
+            }
+        ]
+    },
+    {
+        "title": "Genki Lesson 1 Vocabulary",
+        "swapQA": true,
+        "swapable": false,
+        "hirakata": true,
+        "cards": [
+            {
+                "question": "えいご",
+                "answer": "English language"
+            },
+            {
+                "question": "がくせい",
+                "answer": "student"
+            },
+            {
+                "question": "にほんご",
+                "answer": "Japanese language"
+            },
+            {
+                "question": "こうこう",
+                "answer": "high school"
+            },
+            {
+                "question": "ごご",
+                "answer": "pm"
+            },
+            {
+                "question": "ごぜん",
+                "answer": "am"
+            },
+            {
+                "question": "さい",
+                "answer": "years old"
+            },
+            {
+                "question": "じ",
+                "answer": "o' clock"
+            },
+            {
+                "question": "いちじ",
+                "answer": "one o' clock"
+            },
+            {
+                "question": "じん",
+                "answer": "person (add to country names to express nationality)"
+            },
+            {
+                "question": "にほんじん",
+                "answer": "Japanese person"
+            },
+            {
+                "question": "せんせい",
+                "answer": "teacher, master (of subject or profession)"
+            },
+            {
+                "question": "だいがく",
+                "answer": "college"
+            },
+            {
+                "question": "でんわ",
+                "answer": "phone"
+            },
+            {
+                "question": "ともだち",
+                "answer": "friend"
+            }
+        ]
+    },
+    {
+        "title": "Genki 1: Time",
+        "swapQA": true,
+        "swapable": false,
+        "hirakata": true,
+        "cards": [
+            {
+                "question": "いちじ",
+                "answer": "One o'clock"
+            },
+            {
+                "question": "にじ",
+                "answer": "Two o'clock"
+            },
+            {
+                "question": "さんじ",
+                "answer": "Three o'clock"
+            },
+            {
+                "question": "よじ",
+                "answer": "Four o'clock"
+            },
+            {
+                "question": "ごじ",
+                "answer": "Five o'clock"
+            },
+            {
+                "question": "ろくじ",
+                "answer": "Six o'clock"
+            },
+            {
+                "question": "しちじ",
+                "answer": "Seven o'clock"
+            },
+            {
+                "question": "はちじ",
+                "answer": "Eight o'clock"
+            },
+            {
+                "question": "くじ",
+                "answer": "Nine o'clock"
+            },
+            {
+                "question": "じゅうじ",
+                "answer": "Ten o'clock"
+            },
+            {
+                "question": "じゅういちじ",
+                "answer": "Eleven o'clock"
+            },
+            {
+                "question": "じゅうにじ",
+                "answer": "Twelve o'clock"
+            },
+            {
+                "question": "〜はん",
+                "answer": "Half past"
+            },
+            {
+                "question": "ごぜん",
+                "answer": "AM"
+            },
+            {
+                "question": "ごご",
+                "answer": "PM"
+            },
+            {
+                "question": "いっぷん",
+                "answer": "Minute 1"
+            },
+            {
+                "question": "にふん",
+                "answer": "Minute 2"
+            },
+            {
+                "question": "さんぷん",
+                "answer": "Minute 3"
+            },
+            {
+                "question": "よんぷん",
+                "answer": "Minute 4"
+            },
+            {
+                "question": "ごふん",
+                "answer": "Minute 5"
+            },
+            {
+                "question": "ろっぷん",
+                "answer": "Minute 6"
+            },
+            {
+                "question": "ななふん",
+                "answer": "Minute 7"
+            },
+            {
+                "question": "はっぷん・はちふん",
+                "answer": "Minute 8"
+            },
+            {
+                "question": "きゅうふん",
+                "answer": "Minute 9"
+            },
+            {
+                "question": "じゅうぷん/じっぷん",
+                "answer": "Minute 10"
+            },
+            {
+                "question": "じゅういっぷん",
+                "answer": "Minute 11"
+            },
+            {
+                "question": "じゅうにふん",
+                "answer": "Minute 12"
+            },
+            {
+                "question": "じゅうさんぷん",
+                "answer": "Minute 13"
+            },
+            {
+                "question": "じゅうよんぷん",
+                "answer": "Minute 14"
+            },
+            {
+                "question": "じゅうごふん",
+                "answer": "Minute 15"
+            },
+            {
+                "question": "じゅうろっぷん",
+                "answer": "Minute 16"
+            },
+            {
+                "question": "じゅうななふん",
+                "answer": "Minute 17"
+            },
+            {
+                "question": "じゅうはちふん・じゅうはっぷん",
+                "answer": "Minute 18"
+            },
+            {
+                "question": "じゅうきゅうふん",
+                "answer": "Minute 19"
+            },
+            {
+                "question": "にじゅっぷん/にじっぷん",
+                "answer": "Minute 20"
+            },
+            {
+                "question": "さんじゅっぷん/さんじっぷん",
+                "answer": "Minute 30"
+            }
+        ]
+    },
+    {
+        "title": "Genki L2 Vocabulary",
+        "swapQA": true,
+        "swapable": false,
+        "hirakata": true,
+        "cards": [
+            {
+                "question": "これ",
+                "answer": "this one"
+            },
+            {
+                "question": "この",
+                "answer": "this (+noun)"
+            },
+            {
+                "question": "それ",
+                "answer": "that one"
+            },
+            {
+                "question": "その",
+                "answer": "that [+noun]"
+            },
+            {
+                "question": "あれ",
+                "answer": "that one over there"
+            },
+            {
+                "question": "あの",
+                "answer": "that [+noun] overthere"
+            },
+            {
+                "question": "どれ",
+                "answer": "which one"
+            },
+            {
+                "question": "どの",
+                "answer": "which [+noun]"
+            },
+            {
+                "question": "ここ",
+                "answer": "here"
+            },
+            {
+                "question": "そこ",
+                "answer": "there"
+            },
+            {
+                "question": "あそこ",
+                "answer": "over there"
+            },
+            {
+                "question": "どこ",
+                "answer": "where"
+            },
+            {
+                "question": "だれ",
+                "answer": "who"
+            },
+            {
+                "question": "おいしい",
+                "answer": "delicious"
+            },
+            {
+                "question": "さかな",
+                "answer": "fish"
+            },
+            {
+                "question": "とんかつ",
+                "answer": "pork cutlet (name of a Japanese dish)"
+            },
+            {
+                "question": "にく",
+                "answer": "meat"
+            },
+            {
+                "question": "メニュー",
+                "answer": "menu"
+            },
+            {
+                "question": "やさい",
+                "answer": "vegetable"
+            },
+            {
+                "question": "えんぴつ",
+                "answer": "pencil"
+            },
+            {
+                "question": "かさ",
+                "answer": "umbrella"
+            },
+            {
+                "question": "かばん",
+                "answer": "bag"
+            },
+            {
+                "question": "くつ",
+                "answer": "shoes"
+            },
+            {
+                "question": "さいふ",
+                "answer": "wallet"
+            },
+            {
+                "question": "ジーンズ",
+                "answer": "jeans"
+            },
+            {
+                "question": "じしょ",
+                "answer": "dictionary"
+            },
+            {
+                "question": "じてんしゃ",
+                "answer": "bicycle"
+            },
+            {
+                "question": "しんぶん",
+                "answer": "newspaper"
+            },
+            {
+                "question": "Tシャツ",
+                "answer": "T-shirt"
+            },
+            {
+                "question": "とけい",
+                "answer": "watch; clock"
+            },
+            {
+                "question": "ノート",
+                "answer": "notebook"
+            },
+            {
+                "question": "ペン",
+                "answer": "pen"
+            },
+            {
+                "question": "ぼうし",
+                "answer": "hat; cap"
+            },
+            {
+                "question": "ほん",
+                "answer": "book"
+            },
+            {
+                "question": "きっさてん",
+                "answer": "cafe"
+            },
+            {
+                "question": "ぎんこう",
+                "answer": "bank"
+            },
+            {
+                "question": "トイレ",
+                "answer": "toilet; restroom"
+            },
+            {
+                "question": "としょかん",
+                "answer": "library"
+            },
+            {
+                "question": "ゆうびんきょく",
+                "answer": "post office"
+            },
+            {
+                "question": "アメリカ",
+                "answer": "U.S.A."
+            },
+            {
+                "question": "イギリス",
+                "answer": "Britain"
+            },
+            {
+                "question": "かんこく",
+                "answer": "Korea"
+            },
+            {
+                "question": "ちゅうごく",
+                "answer": "China"
+            },
+            {
+                "question": "けいざい",
+                "answer": "economics"
+            },
+            {
+                "question": "コンピューター",
+                "answer": "computer"
+            },
+            {
+                "question": "ビジネス",
+                "answer": "business"
+            },
+            {
+                "question": "れきし",
+                "answer": "history"
+            },
+            {
+                "question": "おかあさん",
+                "answer": "mother"
+            },
+            {
+                "question": "おとうさん",
+                "answer": "father"
+            },
+            {
+                "question": "いくら",
+                "answer": "how much"
+            },
+            {
+                "question": "〜えん",
+                "answer": "~ yen"
+            },
+            {
+                "question": "たかい",
+                "answer": "expensive; high"
+            },
+            {
+                "question": "いらっしゃいませ",
+                "answer": "Welcome (to our store)."
+            },
+            {
+                "question": "おねがいします",
+                "answer": "~, please."
+            },
+            {
+                "question": "ください",
+                "answer": "Please give me ~"
+            },
+            {
+                "question": "じゃあ",
+                "answer": "well then... ; if that is the case..."
+            },
+            {
+                "question": "どうぞ",
+                "answer": "Please.; Here it is."
+            },
+            {
+                "question": "どうも",
+                "answer": "Thanks. (casual)"
+            }
+        ]
+    },
+    {
+        "title": "Genki: Chapter 2: Numbers",
+        "swapQA": false,
+        "swapable": false,
+        "hirakata": true,
+        "cards": [
+            {
+                "question": "ひゃく",
+                "answer": "100"
+            },
+            {
+                "question": "にひゃく",
+                "answer": "200"
+            },
+            {
+                "question": "さんびゃく",
+                "answer": "300"
+            },
+            {
+                "question": "よんひゃく",
+                "answer": "400"
+            },
+            {
+                "question": "ごひゃく",
+                "answer": "500"
+            },
+            {
+                "question": "ろっぴゃく",
+                "answer": "600"
+            },
+            {
+                "question": "ななひゃく",
+                "answer": "700"
+            },
+            {
+                "question": "はっぴゃく",
+                "answer": "800"
+            },
+            {
+                "question": "きゅうひゃく",
+                "answer": "900"
+            },
+            {
+                "question": "せん",
+                "answer": "1000"
+            },
+            {
+                "question": "にせん",
+                "answer": "2000"
+            },
+            {
+                "question": "さんぜん",
+                "answer": "3000"
+            },
+            {
+                "question": "よんせん",
+                "answer": "4000"
+            },
+            {
+                "question": "ごせん",
+                "answer": "5000"
+            },
+            {
+                "question": "ろくせん",
+                "answer": "6000"
+            },
+            {
+                "question": "ななせん",
+                "answer": "7000"
+            },
+            {
+                "question": "はっせん",
+                "answer": "8000"
+            },
+            {
+                "question": "きゅうせん",
+                "answer": "9000"
+            },
+            {
+                "question": "いちまん",
+                "answer": "10,000"
+            },
+            {
+                "question": "にまん",
+                "answer": "20,000"
+            },
+            {
+                "question": "さんまん",
+                "answer": "30,000"
+            },
+            {
+                "question": "よんまん",
+                "answer": "40,000"
+            },
+            {
+                "question": "ごまん",
+                "answer": "50,000"
+            },
+            {
+                "question": "ろくまん",
+                "answer": "60,000"
+            },
+            {
+                "question": "ななまん",
+                "answer": "70,000"
+            },
+            {
+                "question": "はちまん",
+                "answer": "80,000"
+            },
+            {
+                "question": "きゅうまん",
+                "answer": "90,000"
+            }
+        ]
+    },
+    {
+        "title": "Genki- Useful Expressions in the Classroom",
+        "swapQA": true,
+        "swapable": false,
+        "hirakata": true,
+        "cards": [
+            {
+                "question": "わかりましたか",
+                "answer": "Do you understand?"
+            },
+            {
+                "question": "わかりました",
+                "answer": "I understand./I understood."
+            },
+            {
+                "question": "わかりません",
+                "answer": "I don't understand/I don't know"
+            },
+            {
+                "question": "ゆっくりいってください",
+                "answer": "Please say it slowly"
+            },
+            {
+                "question": "もういちどいってください",
+                "answer": "Please say it again"
+            },
+            {
+                "question": "ちょっとまってください",
+                "answer": "Please wait"
+            },
+            {
+                "question": "きいてください",
+                "answer": "Please listen./Please ask."
+            },
+            {
+                "question": "10ページをみてください",
+                "answer": "Please look at page 10."
+            },
+            {
+                "question": "こくばん",
+                "answer": "blackboard"
+            },
+            {
+                "question": "でんき",
+                "answer": "electricity, light"
+            },
+            {
+                "question": "カーテン",
+                "answer": "curtain"
+            },
+            {
+                "question": "ドア",
+                "answer": "door"
+            },
+            {
+                "question": "まど",
+                "answer": "window"
+            },
+            {
+                "question": "いす",
+                "answer": "chair"
+            },
+            {
+                "question": "かばん",
+                "answer": "bag"
+            },
+            {
+                "question": "つくえ (机)",
+                "answer": "desk"
+            },
+            {
+                "question": "けしゴム",
+                "answer": "eraser"
+            },
+            {
+                "question": "ペン",
+                "answer": "pen"
+            },
+            {
+                "question": "じしょ",
+                "answer": "dictionary"
+            },
+            {
+                "question": "ほん",
+                "answer": "book"
+            }
+        ]
+    },
+    {
+        "title": "Katakana",
+        "swapQA": false,
+        "swapable": false,
+        "hirakata": false,
+        "cards": [
+            {
+                "question": "ア",
+                "answer": "a"
+            },
+            {
+                "question": "イ",
+                "answer": "i"
+            },
+            {
+                "question": "ウ",
+                "answer": "u"
+            },
+            {
+                "question": "エ",
+                "answer": "e"
+            },
+            {
+                "question": "オ",
+                "answer": "o"
+            },
+            {
+                "question": "カ",
+                "answer": "ka"
+            },
+            {
+                "question": "キ",
+                "answer": "ki"
+            },
+            {
+                "question": "ク",
+                "answer": "ku"
+            },
+            {
+                "question": "ケ",
+                "answer": "ke"
+            },
+            {
+                "question": "コ",
+                "answer": "ko"
+            },
+            {
+                "question": "サ",
+                "answer": "sa"
+            },
+            {
+                "question": "シ",
+                "answer": "shi"
+            },
+            {
+                "question": "ス",
+                "answer": "su"
+            },
+            {
+                "question": "セ",
+                "answer": "se"
+            },
+            {
+                "question": "ソ",
+                "answer": "so"
+            },
+            {
+                "question": "タ",
+                "answer": "ta"
+            },
+            {
+                "question": "チ",
+                "answer": "chi"
+            },
+            {
+                "question": "ツ",
+                "answer": "tsu"
+            },
+            {
+                "question": "テ",
+                "answer": "te"
+            },
+            {
+                "question": "ト",
+                "answer": "to"
+            },
+            {
+                "question": "ナ",
+                "answer": "na"
+            },
+            {
+                "question": "ニ",
+                "answer": "ni"
+            },
+            {
+                "question": "ヌ",
+                "answer": "nu"
+            },
+            {
+                "question": "ネ",
+                "answer": "ne"
+            },
+            {
+                "question": "ノ",
+                "answer": "no"
+            },
+            {
+                "question": "ハ",
+                "answer": "ha"
+            },
+            {
+                "question": "ヒ",
+                "answer": "hi"
+            },
+            {
+                "question": "フ",
+                "answer": "fu"
+            },
+            {
+                "question": "ヘ",
+                "answer": "he"
+            },
+            {
+                "question": "ホ",
+                "answer": "ho"
+            },
+            {
+                "question": "マ",
+                "answer": "ma"
+            },
+            {
+                "question": "ミ",
+                "answer": "mi"
+            },
+            {
+                "question": "ム",
+                "answer": "mu"
+            },
+            {
+                "question": "メ",
+                "answer": "me"
+            },
+            {
+                "question": "モ",
+                "answer": "mo"
+            },
+            {
+                "question": "ヤ",
+                "answer": "ya"
+            },
+            {
+                "question": "ユ",
+                "answer": "yu"
+            },
+            {
+                "question": "ヨ",
+                "answer": "yo"
+            },
+            {
+                "question": "ラ",
+                "answer": "ra"
+            },
+            {
+                "question": "リ",
+                "answer": "ri"
+            },
+            {
+                "question": "ル",
+                "answer": "ru"
+            },
+            {
+                "question": "レ",
+                "answer": "re"
+            },
+            {
+                "question": "ロ",
+                "answer": "ro"
+            },
+            {
+                "question": "ワ",
+                "answer": "wa"
+            },
+            {
+                "question": "ヲ",
+                "answer": "wo"
+            },
+            {
+                "question": "ン",
+                "answer": "n"
+            }
+        ]
+    },
+    {
+        "title": "Hiragana A - So",
+        "swapQA": false,
+        "swapable": false,
+        "hirakata": false,
+        "cards": [
+            {
+                "question": "あ",
+                "answer": "a"
+            },
+            {
+                "question": "い",
+                "answer": "i"
+            },
+            {
+                "question": "う",
+                "answer": "u"
+            },
+            {
+                "question": "え",
+                "answer": "e"
+            },
+            {
+                "question": "お",
+                "answer": "o"
+            },
+            {
+                "question": "か",
+                "answer": "ka"
+            },
+            {
+                "question": "き",
+                "answer": "ki"
+            },
+            {
+                "question": "く",
+                "answer": "ku"
+            },
+            {
+                "question": "け",
+                "answer": "ke"
+            },
+            {
+                "question": "こ",
+                "answer": "ko"
+            },
+            {
+                "question": "さ",
+                "answer": "sa"
+            },
+            {
+                "question": "し",
+                "answer": "shi"
+            },
+            {
+                "question": "す",
+                "answer": "su"
+            },
+            {
+                "question": "せ",
+                "answer": "se"
+            },
+            {
+                "question": "そ",
+                "answer": "so"
+            }
+        ]
+    },
+    {
+        "title": "HIRAGANA A-KO",
+        "swapQA": false,
+        "swapable": false,
+        "hirakata": false,
+        "cards": [
+            {
+                "question": "あ",
+                "answer": "a"
+            },
+            {
+                "question": "い",
+                "answer": "i"
+            },
+            {
+                "question": "う",
+                "answer": "u"
+            },
+            {
+                "question": "え",
+                "answer": "e"
+            },
+            {
+                "question": "お",
+                "answer": "o"
+            },
+            {
+                "question": "か",
+                "answer": "ka"
+            },
+            {
+                "question": "き",
+                "answer": "ki"
+            },
+            {
+                "question": "く",
+                "answer": "ku"
+            },
+            {
+                "question": "け",
+                "answer": "ke"
+            },
+            {
+                "question": "こ",
+                "answer": "ko"
+            }
+        ]
+    },
+    {
+        "title": "Hiragana A to HO",
+        "swapQA": false,
+        "swapable": false,
+        "hirakata": false,
+        "cards": [
+            {
+                "question": "あ",
+                "answer": "a"
+            },
+            {
+                "question": "い",
+                "answer": "i"
+            },
+            {
+                "question": "う",
+                "answer": "u"
+            },
+            {
+                "question": "え",
+                "answer": "e"
+            },
+            {
+                "question": "お",
+                "answer": "o"
+            },
+            {
+                "question": "か",
+                "answer": "ka"
+            },
+            {
+                "question": "き",
+                "answer": "ki"
+            },
+            {
+                "question": "く",
+                "answer": "ku"
+            },
+            {
+                "question": "け",
+                "answer": "ke"
+            },
+            {
+                "question": "こ",
+                "answer": "ko"
+            },
+            {
+                "question": "さ",
+                "answer": "sa"
+            },
+            {
+                "question": "し",
+                "answer": "shi"
+            },
+            {
+                "question": "す",
+                "answer": "su"
+            },
+            {
+                "question": "せ",
+                "answer": "se"
+            },
+            {
+                "question": "そ",
+                "answer": "so"
+            },
+            {
+                "question": "た",
+                "answer": "ta"
+            },
+            {
+                "question": "ち",
+                "answer": "chi"
+            },
+            {
+                "question": "つ",
+                "answer": "tsu"
+            },
+            {
+                "question": "て",
+                "answer": "te"
+            },
+            {
+                "question": "と",
+                "answer": "to"
+            },
+            {
+                "question": "な",
+                "answer": "na"
+            },
+            {
+                "question": "に",
+                "answer": "ni"
+            },
+            {
+                "question": "ぬ",
+                "answer": "nu"
+            },
+            {
+                "question": "ね",
+                "answer": "ne"
+            },
+            {
+                "question": "の",
+                "answer": "no"
+            },
+            {
+                "question": "は",
+                "answer": "ha"
+            },
+            {
+                "question": "ひ",
+                "answer": "hi"
+            },
+            {
+                "question": "ふ",
+                "answer": "fu"
+            },
+            {
+                "question": "へ",
+                "answer": "he"
+            },
+            {
+                "question": "ほ",
+                "answer": "ho"
+            }
+        ]
+    },
+    {
+        "title": "Hiragana (a-to)",
+        "swapQA": false,
+        "swapable": false,
+        "hirakata": false,
+        "cards": [
+            {
+                "question": "あ",
+                "answer": "a"
+            },
+            {
+                "question": "い",
+                "answer": "i"
+            },
+            {
+                "question": "う",
+                "answer": "u"
+            },
+            {
+                "question": "え",
+                "answer": "e"
+            },
+            {
+                "question": "お",
+                "answer": "o"
+            },
+            {
+                "question": "か",
+                "answer": "ka"
+            },
+            {
+                "question": "き",
+                "answer": "ki"
+            },
+            {
+                "question": "く",
+                "answer": "ku"
+            },
+            {
+                "question": "け",
+                "answer": "ke"
+            },
+            {
+                "question": "こ",
+                "answer": "ko"
+            },
+            {
+                "question": "さ",
+                "answer": "sa"
+            },
+            {
+                "question": "し",
+                "answer": "shi"
+            },
+            {
+                "question": "す",
+                "answer": "su"
+            },
+            {
+                "question": "せ",
+                "answer": "se"
+            },
+            {
+                "question": "そ",
+                "answer": "so"
+            },
+            {
+                "question": "た",
+                "answer": "ta"
+            },
+            {
+                "question": "ち",
+                "answer": "chi"
+            },
+            {
+                "question": "つ",
+                "answer": "tsu"
+            },
+            {
+                "question": "て",
+                "answer": "te"
+            },
+            {
+                "question": "と",
+                "answer": "to"
+            }
+        ]
+    },
+    {
+        "title": "Hiragana A to NO",
+        "swapQA": false,
+        "swapable": false,
+        "hirakata": false,
+        "cards": [
+            {
+                "question": "あ",
+                "answer": "a"
+            },
+            {
+                "question": "い",
+                "answer": "i"
+            },
+            {
+                "question": "う",
+                "answer": "u"
+            },
+            {
+                "question": "え",
+                "answer": "e"
+            },
+            {
+                "question": "お",
+                "answer": "o"
+            },
+            {
+                "question": "か",
+                "answer": "ka"
+            },
+            {
+                "question": "き",
+                "answer": "ki"
+            },
+            {
+                "question": "く",
+                "answer": "ku"
+            },
+            {
+                "question": "け",
+                "answer": "ke"
+            },
+            {
+                "question": "こ",
+                "answer": "ko"
+            },
+            {
+                "question": "さ",
+                "answer": "sa"
+            },
+            {
+                "question": "し",
+                "answer": "shi"
+            },
+            {
+                "question": "す",
+                "answer": "su"
+            },
+            {
+                "question": "せ",
+                "answer": "se"
+            },
+            {
+                "question": "そ",
+                "answer": "so"
+            },
+            {
+                "question": "た",
+                "answer": "ta"
+            },
+            {
+                "question": "ち",
+                "answer": "chi"
+            },
+            {
+                "question": "つ",
+                "answer": "tsu"
+            },
+            {
+                "question": "て",
+                "answer": "te"
+            },
+            {
+                "question": "と",
+                "answer": "to"
+            },
+            {
+                "question": "な",
+                "answer": "na"
+            },
+            {
+                "question": "に",
+                "answer": "ni"
+            },
+            {
+                "question": "ぬ",
+                "answer": "nu"
+            },
+            {
+                "question": "ね",
+                "answer": "ne"
+            },
+            {
+                "question": "の",
+                "answer": "no"
+            }
+        ]
+    },
+    {
+        "title": "Hiragana A to MO",
+        "swapQA": false,
+        "swapable": false,
+        "hirakata": false,
+        "cards": [
+            {
+                "question": "あ",
+                "answer": "a"
+            },
+            {
+                "question": "い",
+                "answer": "i"
+            },
+            {
+                "question": "う",
+                "answer": "u"
+            },
+            {
+                "question": "え",
+                "answer": "e"
+            },
+            {
+                "question": "お",
+                "answer": "o"
+            },
+            {
+                "question": "か",
+                "answer": "ka"
+            },
+            {
+                "question": "き",
+                "answer": "ki"
+            },
+            {
+                "question": "く",
+                "answer": "ku"
+            },
+            {
+                "question": "け",
+                "answer": "ke"
+            },
+            {
+                "question": "こ",
+                "answer": "ko"
+            },
+            {
+                "question": "さ",
+                "answer": "sa"
+            },
+            {
+                "question": "し",
+                "answer": "shi"
+            },
+            {
+                "question": "す",
+                "answer": "su"
+            },
+            {
+                "question": "せ",
+                "answer": "se"
+            },
+            {
+                "question": "そ",
+                "answer": "so"
+            },
+            {
+                "question": "た",
+                "answer": "ta"
+            },
+            {
+                "question": "ち",
+                "answer": "chi"
+            },
+            {
+                "question": "つ",
+                "answer": "tsu"
+            },
+            {
+                "question": "て",
+                "answer": "te"
+            },
+            {
+                "question": "と",
+                "answer": "to"
+            },
+            {
+                "question": "な",
+                "answer": "na"
+            },
+            {
+                "question": "に",
+                "answer": "ni"
+            },
+            {
+                "question": "ぬ",
+                "answer": "nu"
+            },
+            {
+                "question": "ね",
+                "answer": "ne"
+            },
+            {
+                "question": "の",
+                "answer": "no"
+            },
+            {
+                "question": "は",
+                "answer": "ha"
+            },
+            {
+                "question": "ひ",
+                "answer": "hi"
+            },
+            {
+                "question": "ふ",
+                "answer": "fu"
+            },
+            {
+                "question": "へ",
+                "answer": "he"
+            },
+            {
+                "question": "ほ",
+                "answer": "ho"
+            },
+            {
+                "question": "ま",
+                "answer": "ma"
+            },
+            {
+                "question": "み",
+                "answer": "mi"
+            },
+            {
+                "question": "む",
+                "answer": "mu"
+            },
+            {
+                "question": "め",
+                "answer": "me"
+            },
+            {
+                "question": "も",
+                "answer": "mo"
+            }
+        ]
+    },
+    {
+        "title": "Hiragana A to RO",
+        "swapQA": false,
+        "swapable": false,
+        "hirakata": false,
+        "cards": [
+            {
+                "question": "あ",
+                "answer": "a"
+            },
+            {
+                "question": "い",
+                "answer": "i"
+            },
+            {
+                "question": "う",
+                "answer": "u"
+            },
+            {
+                "question": "え",
+                "answer": "e"
+            },
+            {
+                "question": "お",
+                "answer": "o"
+            },
+            {
+                "question": "か",
+                "answer": "ka"
+            },
+            {
+                "question": "き",
+                "answer": "ki"
+            },
+            {
+                "question": "く",
+                "answer": "ku"
+            },
+            {
+                "question": "け",
+                "answer": "ke"
+            },
+            {
+                "question": "こ",
+                "answer": "ko"
+            },
+            {
+                "question": "さ",
+                "answer": "sa"
+            },
+            {
+                "question": "し",
+                "answer": "shi"
+            },
+            {
+                "question": "す",
+                "answer": "su"
+            },
+            {
+                "question": "せ",
+                "answer": "se"
+            },
+            {
+                "question": "そ",
+                "answer": "so"
+            },
+            {
+                "question": "た",
+                "answer": "ta"
+            },
+            {
+                "question": "ち",
+                "answer": "chi"
+            },
+            {
+                "question": "つ",
+                "answer": "tsu"
+            },
+            {
+                "question": "て",
+                "answer": "te"
+            },
+            {
+                "question": "と",
+                "answer": "to"
+            },
+            {
+                "question": "な",
+                "answer": "na"
+            },
+            {
+                "question": "に",
+                "answer": "ni"
+            },
+            {
+                "question": "ぬ",
+                "answer": "nu"
+            },
+            {
+                "question": "ね",
+                "answer": "ne"
+            },
+            {
+                "question": "の",
+                "answer": "no"
+            },
+            {
+                "question": "は",
+                "answer": "ha"
+            },
+            {
+                "question": "ひ",
+                "answer": "hi"
+            },
+            {
+                "question": "ふ",
+                "answer": "fu"
+            },
+            {
+                "question": "へ",
+                "answer": "he"
+            },
+            {
+                "question": "ほ",
+                "answer": "ho"
+            },
+            {
+                "question": "ま",
+                "answer": "ma"
+            },
+            {
+                "question": "み",
+                "answer": "mi"
+            },
+            {
+                "question": "む",
+                "answer": "mu"
+            },
+            {
+                "question": "め",
+                "answer": "me"
+            },
+            {
+                "question": "も",
+                "answer": "mo"
+            },
+            {
+                "question": "や",
+                "answer": "ya"
+            },
+            {
+                "question": "ゆ",
+                "answer": "yu"
+            },
+            {
+                "question": "よ",
+                "answer": "yo"
+            },
+            {
+                "question": "ら",
+                "answer": "ra"
+            },
+            {
+                "question": "り",
+                "answer": "ri"
+            },
+            {
+                "question": "る",
+                "answer": "ru"
+            },
+            {
+                "question": "れ",
+                "answer": "re"
+            },
+            {
+                "question": "ろ",
+                "answer": "ro"
+            }
+        ]
+    },
+    {
+        "title": "Genki Lesson 1 Greeting",
+        "swapQA": false,
+        "swapable": true,
+        "hirakata": true,
+        "cards": [
+            {
+                "question": "ohayoo",
+                "answer": "Good morning"
+            },
+            {
+                "question": "ohayoo gozaimasu",
+                "answer": "Good morning"
+            },
+            {
+                "question": "konnichiwa",
+                "answer": "Hello"
+            },
+            {
+                "question": "konbanwa",
+                "answer": "Good evening"
+            },
+            {
+                "question": "sayoonara",
+                "answer": "Goodbye"
+            },
+            {
+                "question": "jaamata",
+                "answer": "See you"
+            },
+            {
+                "question": "oyasuminasai",
+                "answer": "Good night"
+            },
+            {
+                "question": "arigatoo",
+                "answer": "Thanks"
+            },
+            {
+                "question": "arigatoo gozaimasu",
+                "answer": "Thank you"
+            },
+            {
+                "question": "sumimasen",
+                "answer": "I'm sorry"
+            },
+            {
+                "question": "iie",
+                "answer": "no"
+            },
+            {
+                "question": "sumimasen",
+                "answer": "excuse me"
+            },
+            {
+                "question": "itadakimasu",
+                "answer": "Thank you for the meal"
+            },
+            {
+                "question": "gochisoosamadeshita",
+                "answer": "Thank you for the meal"
+            },
+            {
+                "question": "hajimemashite",
+                "answer": "First time"
+            },
+            {
+                "question": "yoroshiku onegaishimasu",
+                "answer": "Nice to meet you"
+            },
+            {
+                "question": "ittekimasu",
+                "answer": "I'm leaving home"
+            },
+            {
+                "question": "itterasshai",
+                "answer": "See you when you get back"
+            },
+            {
+                "question": "okaerinsai",
+                "answer": "Welcome home"
+            },
+            {
+                "question": "tadaima",
+                "answer": "I'm back"
+            }
+        ]
+    },
+    {
+        "title": "Katakana a-no",
+        "swapQA": true,
+        "swapable": false,
+        "hirakata": false,
+        "cards": [
+            {
+                "question": "a",
+                "answer": "ア"
+            },
+            {
+                "question": "i",
+                "answer": "イ"
+            },
+            {
+                "question": "u",
+                "answer": "ウ"
+            },
+            {
+                "question": "e",
+                "answer": "エ"
+            },
+            {
+                "question": "o",
+                "answer": "オ"
+            },
+            {
+                "question": "ka",
+                "answer": "カ"
+            },
+            {
+                "question": "ki",
+                "answer": "キ"
+            },
+            {
+                "question": "ku",
+                "answer": "ク"
+            },
+            {
+                "question": "ke",
+                "answer": "ケ"
+            },
+            {
+                "question": "ko",
+                "answer": "コ"
+            },
+            {
+                "question": "sa",
+                "answer": "サ"
+            },
+            {
+                "question": "shi",
+                "answer": "シ"
+            },
+            {
+                "question": "su",
+                "answer": "ス"
+            },
+            {
+                "question": "se",
+                "answer": "セ"
+            },
+            {
+                "question": "so",
+                "answer": "ソ"
+            },
+            {
+                "question": "ta",
+                "answer": "タ"
+            },
+            {
+                "question": "chi",
+                "answer": "チ"
+            },
+            {
+                "question": "tsu",
+                "answer": "ツ"
+            },
+            {
+                "question": "te",
+                "answer": "テ"
+            },
+            {
+                "question": "to",
+                "answer": "ト"
+            },
+            {
+                "question": "na",
+                "answer": "ナ"
+            },
+            {
+                "question": "ni",
+                "answer": "ニ"
+            },
+            {
+                "question": "nu",
+                "answer": "ヌ"
+            },
+            {
+                "question": "ne",
+                "answer": "ネ"
+            },
+            {
+                "question": "no",
+                "answer": "ノ"
+            }
+        ]
+    },
+    {
+        "title": "Katakana",
+        "swapQA": true,
+        "swapable": false,
+        "hirakata": false,
+        "cards": [
+            {
+                "question": "A",
+                "answer": "ア"
+            },
+            {
+                "question": "I",
+                "answer": "イ"
+            },
+            {
+                "question": "U",
+                "answer": "ウ"
+            },
+            {
+                "question": "E",
+                "answer": "エ"
+            },
+            {
+                "question": "O",
+                "answer": "オ"
+            },
+            {
+                "question": "Ka",
+                "answer": "カ"
+            },
+            {
+                "question": "Ki",
+                "answer": "キ"
+            },
+            {
+                "question": "Ku",
+                "answer": "ク"
+            },
+            {
+                "question": "Ke",
+                "answer": "ケ"
+            },
+            {
+                "question": "Ko",
+                "answer": "コ"
+            },
+            {
+                "question": "Sa",
+                "answer": "サ"
+            },
+            {
+                "question": "Shi",
+                "answer": "シ"
+            },
+            {
+                "question": "Su",
+                "answer": "ス"
+            },
+            {
+                "question": "Se",
+                "answer": "セ"
+            },
+            {
+                "question": "So",
+                "answer": "ソ"
+            },
+            {
+                "question": "Ta",
+                "answer": "タ"
+            },
+            {
+                "question": "Chi",
+                "answer": "チ"
+            },
+            {
+                "question": "Tsu",
+                "answer": "ツ"
+            },
+            {
+                "question": "Te",
+                "answer": "テ"
+            },
+            {
+                "question": "To",
+                "answer": "ト"
+            },
+            {
+                "question": "Na",
+                "answer": "ナ"
+            },
+            {
+                "question": "Ni",
+                "answer": "ニ"
+            },
+            {
+                "question": "Nu",
+                "answer": "ヌ"
+            },
+            {
+                "question": "Ne",
+                "answer": "ネ"
+            },
+            {
+                "question": "No",
+                "answer": "ノ"
+            },
+            {
+                "question": "Ha",
+                "answer": "ハ"
+            },
+            {
+                "question": "Hi",
+                "answer": "ヒ"
+            },
+            {
+                "question": "Fu/Hu",
+                "answer": "フ"
+            },
+            {
+                "question": "He",
+                "answer": "ヘ"
+            },
+            {
+                "question": "Ho",
+                "answer": "ホ"
+            },
+            {
+                "question": "Ma",
+                "answer": "マ"
+            },
+            {
+                "question": "Mi",
+                "answer": "ミ"
+            },
+            {
+                "question": "Mu",
+                "answer": "ム"
+            },
+            {
+                "question": "Me",
+                "answer": "メ"
+            },
+            {
+                "question": "Mo",
+                "answer": "モ"
+            },
+            {
+                "question": "Ya",
+                "answer": "ヤ"
+            },
+            {
+                "question": "Yu",
+                "answer": "ユ"
+            },
+            {
+                "question": "Yo",
+                "answer": "ヨ"
+            },
+            {
+                "question": "Ra",
+                "answer": "ラ"
+            },
+            {
+                "question": "Ri",
+                "answer": "リ"
+            },
+            {
+                "question": "Ru",
+                "answer": "ル"
+            },
+            {
+                "question": "Re",
+                "answer": "レ"
+            },
+            {
+                "question": "Ro",
+                "answer": "ロ"
+            },
+            {
+                "question": "Wa",
+                "answer": "ワ"
+            },
+            {
+                "question": "Wo",
+                "answer": "ヲ"
+            },
+            {
+                "question": "N",
+                "answer": "ン"
+            }
+        ]
+    }
+]
